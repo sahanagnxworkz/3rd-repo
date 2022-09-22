@@ -30,7 +30,7 @@ class GroceryStore{
 	}
 		static long getAreaDiameter(){
 			System.out.println("the area is about:"+areaDiameter);
-			return 0l;
+			return 0;
 		}
 		
 	static void setItems(String grains){
@@ -60,7 +60,7 @@ class GroceryStore{
 		payment=payMode;
 	}
 	static String getPayment(){
-		System.out.println("The paymnet is in :"+payment);
+		System.out.println("The paymnet is in :N"+payment);
 		return null;
 	}
 }
