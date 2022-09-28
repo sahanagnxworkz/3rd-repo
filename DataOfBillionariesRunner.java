@@ -1,4 +1,4 @@
-class DataOfBillinariesRunner{
+class DataOfBillionariesRunner{
 	public static void main(String[] data){
 		System.out.println("*********main entered*************");
 		
